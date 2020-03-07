@@ -1,0 +1,10 @@
+c:\users\ricardo\source\repos\ABMproductosRicardo\ABMproductosRicardo\bin\Debug\ABMproductosRicardo.exe.config
+c:\users\ricardo\source\repos\ABMproductosRicardo\ABMproductosRicardo\bin\Debug\ABMproductosRicardo.exe
+c:\users\ricardo\source\repos\ABMproductosRicardo\ABMproductosRicardo\bin\Debug\ABMproductosRicardo.pdb
+c:\users\ricardo\source\repos\ABMproductosRicardo\ABMproductosRicardo\obj\Debug\ABMproductosRicardo.csprojAssemblyReference.cache
+c:\users\ricardo\source\repos\ABMproductosRicardo\ABMproductosRicardo\obj\Debug\ABMproductosRicardo.Form1.resources
+c:\users\ricardo\source\repos\ABMproductosRicardo\ABMproductosRicardo\obj\Debug\ABMproductosRicardo.Properties.Resources.resources
+c:\users\ricardo\source\repos\ABMproductosRicardo\ABMproductosRicardo\obj\Debug\ABMproductosRicardo.csproj.GenerateResource.cache
+c:\users\ricardo\source\repos\ABMproductosRicardo\ABMproductosRicardo\obj\Debug\ABMproductosRicardo.csproj.CoreCompileInputs.cache
+c:\users\ricardo\source\repos\ABMproductosRicardo\ABMproductosRicardo\obj\Debug\ABMproductosRicardo.exe
+c:\users\ricardo\source\repos\ABMproductosRicardo\ABMproductosRicardo\obj\Debug\ABMproductosRicardo.pdb
